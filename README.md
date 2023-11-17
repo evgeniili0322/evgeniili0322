@@ -40,5 +40,5 @@
 
 ## Cтатистика
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=evgeniili0322&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=evgeniili2203&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=evgeniili0322&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evgeniili0322&theme=tokyonight)
