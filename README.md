@@ -3,7 +3,7 @@
 <!--About me-->
 
 ## :technologist:Обо мне:
-Меня зовут Евгений я Manual / Auto QA Engeneer. Опыто работы 3 года в ручном тестировании web, desktop и мобильных приложений. Языкр программирования автотестов python
+Меня зовут Евгений я Manual / Auto QA Engeneer. Опыт работы 3 года в ручном тестировании web, desktop и мобильных приложений. Языкр программирования автотестов python
 
 ### Contacts:
 - [<img src='images/other/gmail.png' alt='gmail' width='20' height='20'>](mailto:alex.job.qa@gmail.com) 
