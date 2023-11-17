@@ -13,7 +13,7 @@
 </p>
 <p>
 &#8287;&#8287;&#8287;&#8287;&#8287;
-[<img src='images/gmail.png' alt='gmail' width='32'>] evgeniili2203@gmail.com
+<img src='images/gmail.png' alt='gmail' width='32'> evgeniili2203@gmail.com
 &#8287;
 </p>
 
