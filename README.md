@@ -6,16 +6,9 @@
 Меня зовут Евгений я Manual / Auto QA Engeneer. Опыт работы 3 года в ручном тестировании web, desktop и мобильных приложений. Языкр программирования автотестов python
 
 ### Contacts:
-<p>
-&#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://t.me/eugene0322"><img width="32px" alt="Telegram" title="Telegram" src="images/tg.png"/></a>
-&#8287;
-</p>
-<p>
-&#8287;&#8287;&#8287;&#8287;&#8287;
-<img src='images/gmail.png' alt='gmail' width='32'>  evgeniili2203@gmail.com
-&#8287;
-</p>
+- Email: evgeniili2203@gmail.com
+- [Telegram](https://t.me/eugene0322)
+
 
 <!--Stack and tools-->
 
