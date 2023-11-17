@@ -11,7 +11,7 @@
   <a href="https://t.me/eugene0322"><img width="32px" alt="Telegram" title="Telegram" src="images/tg.png"/></a>
   &#8287;
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://mailto:evgeniili2203@gmail.com@gmail.com"><img width="32px" alt="GMail" title="GMail" src="images/gmail.png"/></a>
+  <a href="evgeniili2203@gmail.com"><img width="32px" alt="GMail" title="GMail" src="images/gmail.png"/></a>
   &#8287;
 </p>
 
